@@ -4,6 +4,8 @@ plan:
     statement: markdowns/part1.md
   - title: Part 2
     statement: markdowns/part2.md
+  - title: Part 3
+    statement: markdowns/part3.md
 projects:
   java:
     root: java-project
