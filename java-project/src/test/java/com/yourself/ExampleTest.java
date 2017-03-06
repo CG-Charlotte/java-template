@@ -18,6 +18,7 @@ public class ExampleTest{
 
     @Test
     public void visualisation() throws IOException {
+/*
         Process p = Runtime.getRuntime().exec("ls /project/answer/ ");
 
         BufferedReader stdInput = new BufferedReader(new
@@ -30,8 +31,9 @@ public class ExampleTest{
         while ((s = stdInput.readLine()) != null) {
             System.out.println(s);
         }
+*/
 
-        System.out.println("CG> open -s /project/target HelloWorld.html");
+        System.out.println("CG> open -s /project/answer/src/main/resources HelloWorld.html");
 
     }
 
