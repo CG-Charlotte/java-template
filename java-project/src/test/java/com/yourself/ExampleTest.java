@@ -14,7 +14,7 @@ public class ExampleTest{
 
     @Test
     public void visualisation(){
-        System.out.println("echo CG\\> open -s /project/target/classes/ HelloWorld.html");
+        System.out.println("CG\\> open -s /project/target/classes/ HelloWorld.html");
     }
 
 }
