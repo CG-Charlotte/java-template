@@ -18,7 +18,7 @@ public class ExampleTest{
 
     @Test
     public void visualisation() throws IOException {
-        Process p = Runtime.getRuntime().exec("ls /project ");
+        Process p = Runtime.getRuntime().exec("ls /project/workspace ");
 
         BufferedReader stdInput = new BufferedReader(new
                 InputStreamReader(p.getInputStream()));
