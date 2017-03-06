@@ -5,6 +5,6 @@ public class Example{
 
     public static String HelloWorld(){
 
-        return "Hello World!";
+        return "";
     }
 }
