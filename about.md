@@ -13,9 +13,14 @@ It is composed as follow:
 If it's your first contribution i highly recommend you to have a look on our [Getting Started](https://docs.google.com/a/codingame.com/document/d/16Wht_sw6nGyv8KOA35CvBjXVGXs-8uyQbZkOk8s8EDk/edit?usp=sharing) 
 
 The structure of the project is: 
-|   about.md
+
+
+├── about.md
+
 ├── codingame.yml
+
 ├── java-project
+
 └── markdowns
 
 The about.md is the current file
