@@ -14,9 +14,9 @@ public class ExampleTest{
 
     @Test
     public void visualisation(){
-        System.out.println("CG> open -s /java-project/target/classes/ HelloWorld.html");
-        System.out.println("CG> open -s java-template/java-project/target/classes/ HelloWorld.html");
-        System.out.println("CG> open -s target/classes/ HelloWorld.html");
+        System.out.println("CG> open -s /project/target/target/classes HelloWorld.html");
+        System.out.println("CG> open -s /project/target HelloWorld.html");
+
     }
 
 }
