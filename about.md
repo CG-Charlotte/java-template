@@ -1,7 +1,4 @@
-# Codingame Course Java Template
-
-
-Welcome to the contributors community.
+# Welcome to the contributors community.
 
 We provide you this empty course to permit you to start easily.
 It is composed as follow:
