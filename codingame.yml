@@ -1,0 +1,18 @@
+title : My first lesson
+plan:
+  - title: Part 1
+    statement: markdowns/part1.md
+  - title: Part 2
+    statement: markdowns/part2.md
+projects:
+  java:
+    root: java-project
+    builder:
+        name: codingame/maven3-builder
+        version: 1.0
+    runner:
+        name: codingame/junit4-runner
+        version: 3.0
+
+
+
